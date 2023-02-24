@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">biografiasCGM</string>
+    <string name="tituloTXT">Biografías</string>
+    <string name="subtituloTXT">Benito Juárez García</string>
+    <string name="subtitulo2TXT">Miguel Hidalgo y Costilla</string>
+
+    <string name="textoTXT">El ex presidente <b><i>Benito Juárez García</i></b> nació en San Pablo Guelatao, Oaxaca, el 21 de marzo de 1806. Después de estudiar por sí mismo durante años, ingresó al seminario y concluyó estudios de Latín, Filosofía y Teología en la ciudad de Oaxaca. En 1831 se desempeñó como Regidor del Ayuntamiento de Oaxaca, en 1833 fue elegido diputado y en 1847 asumió como gobernador de Oaxaca. Juárez fue el primer y único presidente de origen indígena de México, y ocupó la presidencia en 5 periodos, de 1857 a 1872.\n\nEntre sus logros se encuentran la fundación de Escuelas Normales, la reconstrucción del Palacio de Gobierno y la proclamación de las leyes de reforma, que permitieron la separación entre los bienes de la iglesia y del Estado. Juárez también promulgó la Ley Juárez, que abolía los privilegios de militares y clérigos, y defendió la Constitución de 1857 en su cargo como presidente de la Suprema Corte de Justicia de la Nación.\nJuárez es conocido como Benemérito de las Américas por su lucha contra la invasión francesa y por establecer las bases sobre las que se funda el Estado laico y la República federal en México.</string>
+    <string name="texto2TXT"><b><i>Miguel Hidalgo y Costilla</i></b> Nació el 8 de mayo de 1753 en la hacienda de San Diego de Corralejo, Pénjamo, Guanajuato. Cursó estudios en el Colegio de San Nicolás, Valladolid (actual Morelia), del que llegó a ser rector.\n\nFue un sacerdote mexicano y líder insurgente que inició la gesta independentista de México en 1810 con el llamado "Grito de Dolores". Hidalgo se preocupó por mejorar las condiciones de vida de sus feligreses, enseñándoles diversas habilidades. Fue capturado y ejecutado en 1811 después de ser derrotado cerca de Guadalajara.\n\nDespués de la independencia, Hidalgo fue reconocido como el Padre de la Patria, en su honor, un estado de la República y la ciudad de Dolores, llevan su nombre y se celebra su llamado a la rebelión cada 16 de septiembre como el Día de la Independencia en México.</string>
+
+    <string name="bioImgTXT">Retrato de biografia</string>
+
+
+    <string name="siguienteTXT">SIGUIENTE</string>
+    <string name="anteriorTXT">ANTERIOR</string>
+</resources>
